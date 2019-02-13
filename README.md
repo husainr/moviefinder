@@ -17,17 +17,13 @@
 ## Key Features
 
 * Popular movies of all time
-<br>
-  <a href="#"><img src="https://user-images.githubusercontent.com/32537300/52727487-5613eb00-2fdb-11e9-981c-4ec1a1e35e60.png" alt="movie finder" width="500"></a>
-  <br>
 * Latest release movies in theatre
 * Easy to use UI
 * Info of individual movie (start cast, director etc.)
 <br>
-  <a href="#"><img src="https://user-images.githubusercontent.com/32537300/52727561-822f6c00-2fdb-11e9-98bb-e6db9879e7ae.png" alt="single movie" width="500"></a>
-  <br>
+<a href="#"><img src="https://user-images.githubusercontent.com/32537300/52727487-5613eb00-2fdb-11e9-981c-4ec1a1e35e60.png" alt="movie finder" width="500"></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/32537300/52727561-822f6c00-2fdb-11e9-98bb-e6db9879e7ae.png" alt="single movie" width="500"></a>
 
- 
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [npm](https://www.npmjs.com/) and [Angular Cli](https://cli.angular.io/) installed on your computer. From your command line:
